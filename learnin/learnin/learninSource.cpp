@@ -8,6 +8,11 @@ int main()
 		int moon_kilo = moon * 1.609;
 	std::cout << "In kilometers this is " << moon_kilo;
 	std::cout << "km.\n";
+
+
+		int sum = 1 * 89;
+		std::cout << "The sum is:" << sum;
+	
 }
 
 //just adding a note
