@@ -11,3 +11,7 @@ int main()
 		int mathc = (3 * 9 * (3 + (9 * 3 / (3))));
 		std::cout << "\nThe answer to 2.15b is:" << mathc;
 }
+
+// Order of Evaluation
+// 2.15a 3 * 6 ( Multiplication ), 18 / 2 (division), 9 + 7 (addition), 16 - 1 (subtraction), x = 15
+// 2.15b 2 + 2 , 4 * 2, 8 - 2 , 6 / 2 , x = 3
