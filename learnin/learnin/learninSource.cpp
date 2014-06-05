@@ -9,3 +9,5 @@ int main()
 	std::cout << "In kilometers this is " << moon_kilo;
 	std::cout << "km.\n";
 }
+
+//just adding a note
