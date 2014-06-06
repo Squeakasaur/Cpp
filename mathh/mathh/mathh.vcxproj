@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2FEA13EF-8B19-474D-B270-7DFBC61A27F3}</ProjectGuid>
+    <ProjectGuid>{355AD1E0-A102-4229-A681-B9B51A7A83FE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>learnin</RootNamespace>
+    <RootNamespace>mathh</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,8 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="learninSource.cpp" />
-    <ClCompile Include="mathSource.cpp" />
+    <ClCompile Include="mat.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
