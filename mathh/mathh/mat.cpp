@@ -14,4 +14,4 @@ int main()
 
 // Order of Evaluation
 // 2.15a 3 * 6 ( Multiplication ), 18 / 2 (division), 9 + 7 (addition), 16 - 1 (subtraction), x = 15
-// 2.15b 2 + 2 , 4 * 2, 8 - 2 , 6 / 2 , x = 3
+// 2.15b 2 % 2 = 0, ( 2 * 2 ) = 4 , ( 2 / 2 ) = 1 , 4 - 1, x = 3
