@@ -16,3 +16,5 @@ int main()
 // 2.15a 3 * 6 ( Multiplication ), 18 / 2 (division), 9 + 7 (addition), 16 - 1 (subtraction), x = 15
 // 2.15b 2 % 2 = 0, ( 2 * 2 ) = 4 , ( 2 / 2 ) = 1 , 4 - 1, x = 3
 // 2.15c 3 * 9 = 27, 3 + 9 = 12 * 3 = 36 / 3 = 12 * 27, x = 324
+
+//resetting up on a
