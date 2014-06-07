@@ -1,15 +1,16 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
 	int math = 7 + 3 * 6 / 2 - 1;
-	std::cout << "The answer to 2.15a is:" << math;
+	cout << "The answer to 2.15a is:" << math;
 
 	int mathb = 2 % 2 + 2 * 2 - 2 / 2;
-		std::cout << "\nThe answer to 2.15b is:" << mathb;
+		cout << "\nThe answer to 2.15b is:" << mathb;
 
 		int mathc = (3 * 9 * (3 + (9 * 3 / (3))));
-		std::cout << "\nThe answer to 2.15b is:" << mathc;
+		cout << "\nThe answer to 2.15c is:" << mathc;
 }
 
 // Order of Evaluation
@@ -17,4 +18,3 @@ int main()
 // 2.15b 2 % 2 = 0, ( 2 * 2 ) = 4 , ( 2 / 2 ) = 1 , 4 - 1, x = 3
 // 2.15c 3 * 9 = 27, 3 + 9 = 12 * 3 = 36 / 3 = 12 * 27, x = 324
 
-//resetting up on a
