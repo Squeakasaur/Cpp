@@ -6,15 +6,15 @@ using namespace std;
 int main()
 {
 
-	int weight = 0;
-	int height = 0;
+	int weight = 0; //initializing weight to 0
+	int height = 0; //initializing height to 0
 	cout << "Enter your weight (lbs):";
 	cin >> weight;
 
 	cout << "Enter your height (in):";
 	cin >> height;
 
-	int body = (weight * 703) / (height * height);
+	int body = (weight * 703) / (height * height); //BMI formula
 
 	cout << "Your BMI is:" << body;
 
