@@ -7,10 +7,10 @@ int main()
 	cout << "The answer to 2.15a is:" << math;
 
 	int mathb = 2 % 2 + 2 * 2 - 2 / 2;
-		cout << "\nThe answer to 2.15b is:" << mathb;
+	cout << "\nThe answer to 2.15b is:" << mathb;
 
-		int mathc = (3 * 9 * (3 + (9 * 3 / (3))));
-		cout << "\nThe answer to 2.15c is:" << mathc;
+	int mathc = (3 * 9 * (3 + (9 * 3 / (3))));
+	cout << "\nThe answer to 2.15c is:" << mathc;
 }
 
 // Order of Evaluation
