@@ -18,5 +18,5 @@ int main()
 
 	cout << "Your BMI is:" << body;
 
-	cout << "\n\nImportant information about BMI Values\n Underweight: Less than 18.5\n Normal: between 18.5 and 24.9\n Overweight: between 25 and 29.9\n Obese: 30 or greater\n";
+	cout << "\n\nImportant information about BMI Values\n Underweight: Less than 18.5\n Normal: between 18.5 and 24.9\n Overweight: between 25 and 29.9\n Obese: 30 or greater\n" << endl;
 }
